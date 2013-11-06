@@ -2,6 +2,8 @@ Ubuntu Greece G+ Community
 ==========================
 *LINUX FOR HUMAN BEINGS* 
 
+[Τι είναι το Ubuntu;] [2]
+
 Καλώς ήρθατε στην επίσημη ομάδα της Ελληνικής κοινότητας του [Ubuntu (Ubuntu-gr) στο Google+ Communities] [1].
 Είμαστε μια μεγάλη παρέα που βοηθάμε νεοεισερχόμενους και μη στο Ubuntu, σας περιμένουμε να γίνετε και εσείς ενεργά μέλη της παρέας.
 
@@ -14,7 +16,6 @@ Ubuntu Greece G+ Community
 > ΤΗΣ ΚΟΙΝΟΤΗΤΑΣ.
 > ΣΤΕΙΛΤΕ ΠΡΟΣΚΛΗΣΗ ΣΕ ΟΛΟΥΣ ΤΟΥΣ ΦΙΛΟΥΣ ΣΑΣ!
 
-[Τι είναι το Ubuntu;] [2] 
 
 Μερικές επισημάνσεις
 --------------------
@@ -32,7 +33,7 @@ Ubuntu Greece G+ Community
 
 Έκδοση Αναθεώρησης
 ------------------
-v1.2.0
+v1.2.1
 
   [1]: https://plus.google.com/communities/113489005803686865491
   [2]: http://ubuntu-gr.org/content/%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-ubuntu
