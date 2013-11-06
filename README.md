@@ -35,7 +35,8 @@ Ubuntu Greece G+ Community
 
 
 - - - - - - - - - -
-Έκδοση Αναθεώρησης: v1.2.2
+* Έκδοση Αναθεώρησης: v1.2.3
+* [Ιστορικό Αλλαγών][10]   
 
   [1]: https://plus.google.com/communities/113489005803686865491
   [2]: http://ubuntu-gr.org/content/%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-ubuntu
@@ -44,3 +45,4 @@ Ubuntu Greece G+ Community
   [7]: https://ubuntu-gr.org/
   [8]: http://forum.ubuntu-gr.org/viewtopic.php?f=2&t=19584&start=0&http
   [9]: https://plus.google.com/u/0/communities/113489005803686865491/members/moderator
+  [10]: https://github.com/ubuntu-gr/ubuntu-gr_gplus_community/commits/master/README.md
